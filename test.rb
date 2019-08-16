@@ -1,5 +1,8 @@
-counter = 0
-until counter == 20 do
-puts "The current number, #{counter} is less than 20"
-counter += 1
-end
+first_number = 7
+second_number = 2
+sum = first_number + second_number
+difference = first_number - second_number
+product = first_number * second_number
+quotient = first_number / second_number
+
+puts product
